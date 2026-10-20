@@ -91,3 +91,7 @@ and for any group that can **explain** its solution to the teacher.
 Solutions are not part of this repository: they will be given at the end of the class.
 
 Have fun! 🐫
+
+## Solutions
+
+The solutions are in the `solutions/` folder (`solutions/NN-name.ml`), added at the end of the class.

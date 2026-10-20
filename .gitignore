@@ -1,0 +1,7 @@
+*.cmo
+*.cmi
+*.cmx
+*.o
+_build/
+*~
+.DS_Store
